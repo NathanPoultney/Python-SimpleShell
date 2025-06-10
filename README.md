@@ -14,7 +14,7 @@ A lightweight, customisable command-line interface built with Python.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/NathanPoultney/simpleshell.git
+   git clone https://github.com/NathanPoultney/Python-SimpleShell
    cd simpleshell
    ```
 
